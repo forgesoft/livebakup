@@ -1,0 +1,16 @@
+{
+    "name": "forgesoft/livebackup",
+    "description": "Live backup for mysql and mariadb",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Forgesoft",
+            "email": "kontakt@forgesoft.pl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Monolog\\": "src/Monolog"}
+    }
+}
